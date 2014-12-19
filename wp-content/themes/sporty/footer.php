@@ -47,7 +47,7 @@
 		<div class="site-info">
 			<!--Rafael López-->
 			<?php // printf( __( 'Copyright © '.date('Y').' Sitio Oficial de CD UES,Universidad de El Salvador' ),'<a href="" target=""></a>'); ?>
-			<?php printf( __(' Sitio Oficial de CD UES,Universidad de El Salvador, '.date('Y') ),'<a href="" target=""></a>'); ?>
+			<?php printf( __(' Sitio9 Oficial de CD UES,Universidad de El Salvador, '.date('Y') ),'<a href="" target=""></a>'); ?>
 		</div><!-- .site-info -->
 	</footer><!-- #colophon .site-footer -->
 </div><!-- #page .hfeed .site -->
